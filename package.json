@@ -1,0 +1,21 @@
+{
+  "name": "221101-node-14-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "post.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonhyoungmin/221101-node-14-post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonhyoungmin/221101-node-14-post/issues"
+  },
+  "homepage": "https://github.com/jeonhyoungmin/221101-node-14-post#readme"
+}
